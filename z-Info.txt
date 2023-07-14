@@ -1,0 +1,49 @@
+body =>
+    -sidebar,
+    -content =>
+        -head,
+   TODO -Dashboard Heading
+            -Wrapper =>
+                -Welcome Widget
+                -Quick Darft Widget
+                -Yearly Targents Widget
+                -Ticket Widget
+                -Latest News Widget
+                -Tasks Widget
+                -Top Search Word Widget
+                -Latest Uploads Widget
+                -Last Project Progress Widget
+                -Reminders Widget
+                -Last Project Progress Widget
+                -Social Media Statistics Widget
+            -Projects Table
+   TODO -Settings Heading 
+            -Settings-content
+                -Site Control Widget
+                -General Info Widget
+                -Security Info widget  
+                -Social Info widget 
+                -Widgets Control widget
+                -Backup Manager widget 
+   TODO -Profile Heading 
+            -Profile-page
+                -Overview
+                    -Avatar-box
+                    -Info-box
+                -Other-Data
+                    -Skills-card
+                    -Activities
+   TODO -Projects Heading 
+            -Project-page
+                -projects from (01 -> 09)
+                    
+
+
+
+
+
+
+
+Search !!
+    -Template Engine (Bug JS)       
+                                                    
